@@ -88,7 +88,7 @@ try:
   else:
    return UravxBuCwNMpYWTzKhPH
  def UravxBuCwNMpYWTzKhPt():
-
+  
   UravxBuCwNMpYWTzKhPI("\n\n")
   UravxBuCwNMpYWTzKhPI("\033[1;31m ___     ___    ____    ___ \033[1;37m ____    ___   ______ ")
   UravxBuCwNMpYWTzKhPI("\033[1;31m|   \   /   \  /    T  /  _]\033[1;37m|    \  /   \ |      T")
