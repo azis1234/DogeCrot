@@ -90,17 +90,17 @@ try:
  def UravxBuCwNMpYWTzKhPt():
 
   UravxBuCwNMpYWTzKhPI("\n\n")
-  UravxBuCwNMpYWTzKhPI("\033[1;31m ___     ___    ____    ___ \033[1;37m ____    ___   ______ ")
-  UravxBuCwNMpYWTzKhPI("\033[1;31m|   \   /   \  /    T  /  _]\033[1;37m|    \  /   \ |      T")
-  UravxBuCwNMpYWTzKhPI("\033[1;31m|    \ Y     YY   __j /  [_ \033[1;37m|  o  )Y     Y|      |")
-  UravxBuCwNMpYWTzKhPI("\033[1;31m|  D  Y|  O  ||  T  |Y    _]\033[1;37m|     T|  O  |l_j  l_j")
-  UravxBuCwNMpYWTzKhPI("\033[1;31m|     ||     ||  l_ ||   [_ \033[1;37m|  O  ||     |  |  |  ")
-  UravxBuCwNMpYWTzKhPI("\033[1;31m|     |l     !|     ||     T\033[1;37m|     |l     !  |  |  ")
-  UravxBuCwNMpYWTzKhPI("\033[1;31ml_____j \___/ l___,_jl_____j\033[1;37ml_____j \___/   l__j  \n")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mAuthor   \033[0;37m: Njank Soekamti")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mYoutube  \033[0;37m: Njank Soekamti")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mGithub   \033[0;37m: N74NK")
-  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mWhatsapp \033[0;37m: +19164619160\n")
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI("\033[1;31m
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mAuthor   \033[0;37m: Kang Azis")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mYoutube  \033[0;37m: AW 2000")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mtelegram \033[0;37m: irma putri")
+  UravxBuCwNMpYWTzKhPI(" \033[1;96m[\033[0;37m+\033[1;96m] \033[0;36mWhatsapp \033[0;37m: +6285771758288\n")
  async def UravxBuCwNMpYWTzKhPF():
   if not UravxBuCwNMpYWTzKhPb.exists("session"):
    UravxBuCwNMpYWTzKhPo("session")
