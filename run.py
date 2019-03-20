@@ -11,4 +11,4 @@ print (' ╚╩╝╚═╝╩═╝╚═╝╚═╝╩ ╩╚═╝  ╚═�
 print ('\033[0;90m    [\033[1;36m+\033[0;90m] Enter your phone_number')
 print ('\033[0;90m    [\033[1;36m+\033[0;90m] Example: +6283195766895')
 doge = input('\033[0;90m    [\033[1;36m+\033[0;90m] Your Number: \033[1;36m')
-os.system('cd .core && python main.py ' + doge)
+os.system('cd .core && python vanesa.py ' + doge)
